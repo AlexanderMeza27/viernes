@@ -1,0 +1,22 @@
+h1{
+    color: palevioletred;
+    font-size: 45px;
+}
+/* Selector universal */
+
+*{
+    color: greenyellow;
+}
+/*Selector ID */
+#a1{
+font-weight: normal;
+}
+
+.a2{
+font-weight: lighter;
+}
+
+.a3{
+    font-weight: lighter;
+    text-decoration:underline ;
+}
